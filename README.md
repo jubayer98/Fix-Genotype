@@ -1,4 +1,4 @@
-### Fix Genotype
+## Fix Genotype
 The provided repository processes a VCF (Variant Call Format) file to filter and transform its data based on specific genomic criteria. It begins by extracting the header lines and then reads the main body of the VCF file into a DataFrame. The script then performs several operations:
 
 1. **Data Filtering:** Removes rows with missing or irrelevant data in a specified column.
